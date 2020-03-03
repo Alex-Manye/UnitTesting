@@ -1,0 +1,6 @@
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\PluralSight_OOP\bin\Debug\PluralSight_OOP.exe.config
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\PluralSight_OOP\bin\Debug\PluralSight_OOP.exe
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\PluralSight_OOP\Debug\PluralSight_OOP.exe.config
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\PluralSight_OOP\Debug\PluralSight_OOP.csproj.CopyComplete
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\PluralSight_OOP\Debug\PluralSight_OOP.exe
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\PluralSight_OOP\Debug\PluralSight_OOP.csprojAssemblyReference.cache

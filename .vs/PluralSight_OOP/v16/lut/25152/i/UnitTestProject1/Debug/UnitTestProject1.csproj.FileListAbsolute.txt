@@ -1,0 +1,10 @@
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\holacons\source\repos\PluralSight_OOP\.vs\PluralSight_OOP\v16\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
