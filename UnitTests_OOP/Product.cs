@@ -4,19 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PluralSight_OOP
+namespace UnitTesting_OOP
 {
     public class Product
     { //Contructor
         public Product()
         {
 
-
         }
+
         public Product(int productId)
         {
             ProductId = productId;
-
         }
 
         //attributes
@@ -27,7 +26,7 @@ namespace PluralSight_OOP
 
 
 
-//Methods
+        //Methods
 
         public bool Validate()
         {
