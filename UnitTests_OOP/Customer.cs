@@ -16,11 +16,13 @@ namespace UnitTesting_OOP
         public Customer (int customerId)
         {
             CustomerId = customerId;
+            AddresList = new List<Address>();
 
         }
 
     //attributes
         public int CustomerId { private set; get; }
+        public int CustomerType { set; get; }
         public string EmailAddress { set; get; }
         public string FirstName { set; get; }
         public string FullName
@@ -33,10 +35,11 @@ namespace UnitTesting_OOP
         public string LastName { set; get; }
         public static int InstanceCount { set; get; }
         public string email { set; get; }
-        public string description { set; get; }
-        public float currentPrice { set; get; }
 
-        
+        public override string ToString() =>FullName;
+
+
+
         public Customer Retrieve(int CustomerId)
         {
             return new Customer();
@@ -47,6 +50,10 @@ namespace UnitTesting_OOP
         {
             return new List<Customer>();
         }
+
+
+
+
 
         public bool Validate(){
             var isValid = true;

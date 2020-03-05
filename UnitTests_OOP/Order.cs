@@ -8,7 +8,8 @@ using System.IO;
 namespace UnitTesting_OOP
 {
     public class Order
-    {   public Order()
+    {   
+        public Order()
         {
 
         }
@@ -16,17 +17,17 @@ namespace UnitTesting_OOP
         public Order(int orderId)
         {
         OrderId = orderId;
-        
+        OrderItems = new List<OrderItem>();
         }
 
+        public int CustomerId {set; get;}
+        public int ShippingOrderId {set; get;}
         public int OrderId {private set; get;}       
         public DateTimeOffset? OrderDate {set; get;}
+        public List<OrderItem> OrderItems {set; get;}
 
-        //public string Customer {set; get;}
-        //public string ShippingAdrress {set; get;}
-        //public string Products {set; get;}
-        //public int quantityOrdered {set; get;}
 
+        public override string ToString()=> $"{OrderDate.Value.Date} ({OrderId})"
 
         public bool Validate(){
         var isValid=true;

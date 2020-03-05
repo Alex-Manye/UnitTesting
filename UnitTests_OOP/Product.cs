@@ -24,6 +24,7 @@ namespace UnitTesting_OOP
         public string ProductDescription { set; get; }
         public decimal? CurrentPrice { set; get; }
 
+        public override string ToString() => ProductName;
 
 
         //Methods
